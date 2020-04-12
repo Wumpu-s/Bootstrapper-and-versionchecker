@@ -1,0 +1,6 @@
+C:\Users\emilw\source\repos\bootstrapperD\bootstrapperD\bin\Debug\bootstrapperD.exe.config
+C:\Users\emilw\source\repos\bootstrapperD\bootstrapperD\bin\Debug\bootstrapperD.exe
+C:\Users\emilw\source\repos\bootstrapperD\bootstrapperD\bin\Debug\bootstrapperD.pdb
+C:\Users\emilw\source\repos\bootstrapperD\bootstrapperD\obj\Debug\bootstrapperD.csproj.CoreCompileInputs.cache
+C:\Users\emilw\source\repos\bootstrapperD\bootstrapperD\obj\Debug\bootstrapperD.exe
+C:\Users\emilw\source\repos\bootstrapperD\bootstrapperD\obj\Debug\bootstrapperD.pdb
